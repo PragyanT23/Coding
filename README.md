@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PragyanT23/Coding/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/PragyanT23/Coding/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Stack
 |  |
 | ------- |
@@ -33,8 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PragyanT23/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/PragyanT23/Coding/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PragyanT23/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/PragyanT23/Coding/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
