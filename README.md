@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/PragyanT23/Coding/tree/master/0948-bag-of-tokens) |
 | [1528-shuffle-string](https://github.com/PragyanT23/Coding/tree/master/1528-shuffle-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PragyanT23/Coding/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2574-left-and-right-sum-differences](https://github.com/PragyanT23/Coding/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-bag-of-tokens](https://github.com/PragyanT23/Coding/tree/master/0948-bag-of-tokens) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/PragyanT23/Coding/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
