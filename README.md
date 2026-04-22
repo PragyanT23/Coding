@@ -34,13 +34,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PragyanT23/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0948-bag-of-tokens](https://github.com/PragyanT23/Coding/tree/master/0948-bag-of-tokens) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PragyanT23/Coding/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PragyanT23/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0948-bag-of-tokens](https://github.com/PragyanT23/Coding/tree/master/0948-bag-of-tokens) |
 ## Trie
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PragyanT23/Coding/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Greedy
+|  |
+| ------- |
+| [0948-bag-of-tokens](https://github.com/PragyanT23/Coding/tree/master/0948-bag-of-tokens) |
+## Sorting
+|  |
+| ------- |
+| [0948-bag-of-tokens](https://github.com/PragyanT23/Coding/tree/master/0948-bag-of-tokens) |
 <!---LeetCode Topics End-->
