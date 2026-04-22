@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/PragyanT23/Coding/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PragyanT23/Coding/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PragyanT23/Coding/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Stack
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/PragyanT23/Coding/tree/master/1025-divisor-game) |
+| [1903-largest-odd-number-in-string](https://github.com/PragyanT23/Coding/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-bag-of-tokens](https://github.com/PragyanT23/Coding/tree/master/0948-bag-of-tokens) |
+| [1903-largest-odd-number-in-string](https://github.com/PragyanT23/Coding/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
