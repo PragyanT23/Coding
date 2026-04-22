@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1528-shuffle-string](https://github.com/PragyanT23/Coding/tree/master/1528-shuffle-string) |
 | [1903-largest-odd-number-in-string](https://github.com/PragyanT23/Coding/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PragyanT23/Coding/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PragyanT23/Coding/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PragyanT23/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0948-bag-of-tokens](https://github.com/PragyanT23/Coding/tree/master/0948-bag-of-tokens) |
+| [1528-shuffle-string](https://github.com/PragyanT23/Coding/tree/master/1528-shuffle-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PragyanT23/Coding/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Two Pointers
 |  |
