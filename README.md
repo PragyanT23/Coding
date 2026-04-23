@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PragyanT23/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/PragyanT23/Coding/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PragyanT23/Coding/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0948-bag-of-tokens](https://github.com/PragyanT23/Coding/tree/master/0948-bag-of-tokens) |
 | [1528-shuffle-string](https://github.com/PragyanT23/Coding/tree/master/1528-shuffle-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PragyanT23/Coding/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PragyanT23/Coding/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0948-bag-of-tokens](https://github.com/PragyanT23/Coding/tree/master/0948-bag-of-tokens) |
 ## Prefix Sum
@@ -68,5 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PragyanT23/Coding/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PragyanT23/Coding/tree/master/0442-find-all-duplicates-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PragyanT23/Coding/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PragyanT23/Coding/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
