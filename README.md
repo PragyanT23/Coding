@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PragyanT23/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PragyanT23/Coding/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0948-bag-of-tokens](https://github.com/PragyanT23/Coding/tree/master/0948-bag-of-tokens) |
 | [1528-shuffle-string](https://github.com/PragyanT23/Coding/tree/master/1528-shuffle-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PragyanT23/Coding/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -58,9 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PragyanT23/Coding/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0948-bag-of-tokens](https://github.com/PragyanT23/Coding/tree/master/0948-bag-of-tokens) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/PragyanT23/Coding/tree/master/2574-left-and-right-sum-differences) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/PragyanT23/Coding/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
