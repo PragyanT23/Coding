@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/PragyanT23/Coding/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PragyanT23/Coding/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PragyanT23/Coding/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2833-furthest-point-from-origin](https://github.com/PragyanT23/Coding/tree/master/2833-furthest-point-from-origin) |
 ## Stack
 |  |
 | ------- |
@@ -80,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PragyanT23/Coding/tree/master/0169-majority-element) |
+| [2833-furthest-point-from-origin](https://github.com/PragyanT23/Coding/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
