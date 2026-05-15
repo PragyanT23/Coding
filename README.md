@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1025-divisor-game](https://github.com/PragyanT23/Coding/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/PragyanT23/Coding/tree/master/1903-largest-odd-number-in-string) |
+| [3101-count-alternating-subarrays](https://github.com/PragyanT23/Coding/tree/master/3101-count-alternating-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/PragyanT23/Coding/tree/master/1528-shuffle-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PragyanT23/Coding/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2574-left-and-right-sum-differences](https://github.com/PragyanT23/Coding/tree/master/2574-left-and-right-sum-differences) |
+| [3101-count-alternating-subarrays](https://github.com/PragyanT23/Coding/tree/master/3101-count-alternating-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
