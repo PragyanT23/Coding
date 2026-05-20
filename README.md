@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/PragyanT23/Coding/tree/master/1528-shuffle-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PragyanT23/Coding/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2574-left-and-right-sum-differences](https://github.com/PragyanT23/Coding/tree/master/2574-left-and-right-sum-differences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PragyanT23/Coding/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3101-count-alternating-subarrays](https://github.com/PragyanT23/Coding/tree/master/3101-count-alternating-subarrays) |
 ## Two Pointers
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PragyanT23/Coding/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PragyanT23/Coding/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PragyanT23/Coding/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PragyanT23/Coding/tree/master/0169-majority-element) |
 | [2833-furthest-point-from-origin](https://github.com/PragyanT23/Coding/tree/master/2833-furthest-point-from-origin) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PragyanT23/Coding/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
