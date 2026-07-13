@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PragyanT23/Coding/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PragyanT23/Coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/PragyanT23/Coding/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PragyanT23/Coding/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PragyanT23/Coding/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/PragyanT23/Coding/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/PragyanT23/Coding/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PragyanT23/Coding/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
