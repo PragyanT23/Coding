@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/PragyanT23/Coding/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/PragyanT23/Coding/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Math
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/PragyanT23/Coding/tree/master/1025-divisor-game) |
 | [1903-largest-odd-number-in-string](https://github.com/PragyanT23/Coding/tree/master/1903-largest-odd-number-in-string) |
 | [3101-count-alternating-subarrays](https://github.com/PragyanT23/Coding/tree/master/3101-count-alternating-subarrays) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/PragyanT23/Coding/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Dynamic Programming
 |  |
 | ------- |
